@@ -3,3 +3,4 @@ Samples/
 *.fit
 *.o
 cudaphot
+.vscode/
