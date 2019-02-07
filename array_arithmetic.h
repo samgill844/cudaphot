@@ -1,0 +1,1 @@
+void sum_arrays_xy(double * xref, double * yref, int Nx, int Ny, long int * axes, float * image);

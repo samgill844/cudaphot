@@ -1,0 +1,5 @@
+Samples/
+*.fits
+*.fit
+*.o
+cudaphot
